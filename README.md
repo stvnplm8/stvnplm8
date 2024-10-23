@@ -1,6 +1,6 @@
 **👋Welcome to my GitHub repository!**
 
-This is where I showcase my projects and share a bit about myself as a full stack developer.
+This is where I showcase my projects and share a bit about myself as a full stack engineer.
 
 **About Me👀**
 
