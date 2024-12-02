@@ -15,6 +15,6 @@ Tools: Git, Docker, Heroku, AWS
 
 **📫Contact**
 
-LinkedIn: [Your LinkedIn Profile ](https://www.linkedin.com/in/stvnplm/)
+LinkedIn: [Your LinkedIn Profile ](https://www.linkedin.com/in/stevenplm/)
 
 ⚡Feel free to reach out if you have any questions or would like to collaborate on a project!⚡
